@@ -1,0 +1,14 @@
+@import 'node_modules/webkit-sass-mixins/dist/webkit-sass-mixins.scss';
+
+/*grid Start*/
+.grid-row{
+  box-sizing: border-box;
+  @include mini-clearfix;
+}
+
+.grid-row .grid-col {
+  float: left;
+}
+
+@include grid('.grid', 24,'col');
+/*grid End*/

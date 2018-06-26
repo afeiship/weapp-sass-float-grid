@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Grid System</title>
+  <link rel="stylesheet" href="/weapp-sass-float-grid.css">
+  <style>
+    .grid-row{
+      margin-bottom: 20px;
+      border:1px solid saddlebrown;
+    }
+    .grid-col:nth-child(2n){
+      background: seagreen;
+    }
+    .grid-col:nth-child(2n-1){
+      background: salmon;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-row">
+    <div class="grid-col grid-col-12">COL1-12</div>
+    <div class="grid-col grid-col-12">COL1-12</div>
+  </div>
+
+  <div class="grid-row">
+    <div class="grid-col grid-col-2">COL1-2</div>
+    <div class="grid-col grid-col-22">COL1-22</div>
+  </div>
+
+  <div class="grid-row">
+    <div class="grid-col grid-col-4">COL4-24</div>
+    <div class="grid-col grid-col-4">COL4-24</div>
+    <div class="grid-col grid-col-4">COL4-24</div>
+    <div class="grid-col grid-col-4">COL4-24</div>
+    <div class="grid-col grid-col-4">COL4-24</div>
+    <div class="grid-col grid-col-4">COL4-24</div>
+  </div>
+</body>
+</html>

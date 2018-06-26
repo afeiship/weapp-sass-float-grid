@@ -1,0 +1,273 @@
+/*animation Start*/
+/*animation End*/
+/*appearance Start*/
+/*appearance End*/
+/*backface-visibility Start*/
+/*backface-visibility End*/
+/*background Start*/
+/*background End*/
+/*border-radius Start*/
+/*border-radius End*/
+/*box-shadow Start*/
+/*box-shadow End*/
+/*box-sizing Start*/
+/*box-sizing End*/
+/*clearfix Start*/
+/*clearfix End*/
+/*content-columns Start*/
+/*content-columns End*/
+/*dib-grid Start*/
+/*dib-grid End*/
+/*filter Start*/
+/*filter End*/
+/*flexbox Start*/
+/*flexbox End*/
+/*flip Start*/
+/*flip End*/
+/*grid Start*/
+/*grid End*/
+/*height Start*/
+/*height End*/
+/*margin Start*/
+/*margin End*/
+/*padding Start*/
+/*padding End*/
+/*placeholder Start*/
+/*placeholder End*/
+/*size Start*/
+/*size End*/
+/*square Start*/
+/*square End*/
+/*tap-highlight-transparent Start*/
+/*tap-highlight-transparent End*/
+/*text-size-adjust Start*/
+/*text-size-adjust End*/
+/*touch-callout Start*/
+/*touch-callout End*/
+/*transformation Start*/
+/*transformation End*/
+/*transition Start*/
+/*transition End*/
+/**
+ * @desc  triangle
+ * @param $width
+ * @param $height
+ * @param $color
+ * @param $direction: top bottom left right
+ */
+/**
+ * @desc Use svg
+ */
+/*user-select Start*/
+/*user-select End*/
+/*width Start*/
+/*width End*/
+/*grid Start*/
+.grid-row {
+  box-sizing: border-box;
+}
+
+.grid-row:after {
+  clear: both;
+  content: "\200B";
+  display: block;
+  height: 0;
+}
+
+.grid-row .grid-col {
+  float: left;
+}
+
+.grid-col-1 {
+  width: 4.16667%;
+}
+
+.grid-col-offset-1 {
+  margin-left: 4.16667%;
+}
+
+.grid-col-2 {
+  width: 8.33333%;
+}
+
+.grid-col-offset-2 {
+  margin-left: 8.33333%;
+}
+
+.grid-col-3 {
+  width: 12.5%;
+}
+
+.grid-col-offset-3 {
+  margin-left: 12.5%;
+}
+
+.grid-col-4 {
+  width: 16.66667%;
+}
+
+.grid-col-offset-4 {
+  margin-left: 16.66667%;
+}
+
+.grid-col-5 {
+  width: 20.83333%;
+}
+
+.grid-col-offset-5 {
+  margin-left: 20.83333%;
+}
+
+.grid-col-6 {
+  width: 25%;
+}
+
+.grid-col-offset-6 {
+  margin-left: 25%;
+}
+
+.grid-col-7 {
+  width: 29.16667%;
+}
+
+.grid-col-offset-7 {
+  margin-left: 29.16667%;
+}
+
+.grid-col-8 {
+  width: 33.33333%;
+}
+
+.grid-col-offset-8 {
+  margin-left: 33.33333%;
+}
+
+.grid-col-9 {
+  width: 37.5%;
+}
+
+.grid-col-offset-9 {
+  margin-left: 37.5%;
+}
+
+.grid-col-10 {
+  width: 41.66667%;
+}
+
+.grid-col-offset-10 {
+  margin-left: 41.66667%;
+}
+
+.grid-col-11 {
+  width: 45.83333%;
+}
+
+.grid-col-offset-11 {
+  margin-left: 45.83333%;
+}
+
+.grid-col-12 {
+  width: 50%;
+}
+
+.grid-col-offset-12 {
+  margin-left: 50%;
+}
+
+.grid-col-13 {
+  width: 54.16667%;
+}
+
+.grid-col-offset-13 {
+  margin-left: 54.16667%;
+}
+
+.grid-col-14 {
+  width: 58.33333%;
+}
+
+.grid-col-offset-14 {
+  margin-left: 58.33333%;
+}
+
+.grid-col-15 {
+  width: 62.5%;
+}
+
+.grid-col-offset-15 {
+  margin-left: 62.5%;
+}
+
+.grid-col-16 {
+  width: 66.66667%;
+}
+
+.grid-col-offset-16 {
+  margin-left: 66.66667%;
+}
+
+.grid-col-17 {
+  width: 70.83333%;
+}
+
+.grid-col-offset-17 {
+  margin-left: 70.83333%;
+}
+
+.grid-col-18 {
+  width: 75%;
+}
+
+.grid-col-offset-18 {
+  margin-left: 75%;
+}
+
+.grid-col-19 {
+  width: 79.16667%;
+}
+
+.grid-col-offset-19 {
+  margin-left: 79.16667%;
+}
+
+.grid-col-20 {
+  width: 83.33333%;
+}
+
+.grid-col-offset-20 {
+  margin-left: 83.33333%;
+}
+
+.grid-col-21 {
+  width: 87.5%;
+}
+
+.grid-col-offset-21 {
+  margin-left: 87.5%;
+}
+
+.grid-col-22 {
+  width: 91.66667%;
+}
+
+.grid-col-offset-22 {
+  margin-left: 91.66667%;
+}
+
+.grid-col-23 {
+  width: 95.83333%;
+}
+
+.grid-col-offset-23 {
+  margin-left: 95.83333%;
+}
+
+.grid-col-24 {
+  width: 100%;
+}
+
+.grid-col-offset-24 {
+  margin-left: 100%;
+}
+
+/*grid End*/

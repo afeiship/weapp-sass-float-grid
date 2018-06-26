@@ -1,0 +1,27 @@
+{
+  "name": "weapp-sass-float-grid",
+  "description": "Weapp sass float grid system.",
+  "main": [
+    "dist/weapp-sass-float-grid.scss",
+    "dist/weapp-sass-float-grid.css"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/weapp-sass-float-grid",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
